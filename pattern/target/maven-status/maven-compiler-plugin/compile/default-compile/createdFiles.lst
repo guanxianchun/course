@@ -1,0 +1,11 @@
+com\guanxc\pattern\factory\abstractfactory\MideaFactory.class
+com\guanxc\pattern\factory\factoryfunc\IceBoxFactory.class
+com\guanxc\pattern\bean\MideaAirConditioner.class
+com\guanxc\pattern\bean\HaierAirConditioner.class
+com\guanxc\pattern\factory\abstractfactory\HaierFactory.class
+com\guanxc\pattern\factory\SimpleFactory.class
+com\guanxc\pattern\bean\AirConditioner.class
+com\guanxc\pattern\bean\MedeaIceBox.class
+com\guanxc\pattern\bean\HaierIceBox.class
+com\guanxc\pattern\bean\IceBox.class
+com\guanxc\pattern\factory\abstractfactory\AbstractFactory.class
